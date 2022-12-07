@@ -1,1 +1,2 @@
-Enjoying Git
+My first score day
+Updated Readme
